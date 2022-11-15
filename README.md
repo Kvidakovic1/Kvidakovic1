@@ -34,11 +34,7 @@
 
 ---
 
-<div  align="center" id="badges">
-  <a href="https://www.linkedin.com/in/kristijan-vidakovi%C4%87-702aa2219/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- </div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kvidakovic1&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
  ---
 
