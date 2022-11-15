@@ -10,7 +10,7 @@
     - Tinkering around my pc and play video games :video_game:
     - Cooking and trying out new recipes.:stew:
   
-  -You can reach me: kristijan.vidakovic111@gmail.com
+  -You can reach out to me: kristijan.vidakovic111@gmail.com
 
 ---
 
@@ -18,6 +18,8 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
+  
 </div>
 
 
