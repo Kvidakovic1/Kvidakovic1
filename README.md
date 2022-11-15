@@ -1,13 +1,15 @@
 
 
 
-### :man_technologist: About Me :
+### About Me :
 
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - Currently learning java to hopefully  become full time developer.  
 
-  - :seedling: Exploring Technical Content Writing.
-
-  - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+  - Spending my free time:
+    - Reading books. :books: 
+    - Tinkering around my pc and play video games :video_game:
+    - Cooking and trying out new recipes.:stew:
+  
 
 
 
