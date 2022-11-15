@@ -1,9 +1,11 @@
 ---
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
 </div>
 
 ---
+
 ### Hi, I'm Kristijan:
 
   - Currently learning java to hopefully  become full time developer.  
@@ -20,6 +22,7 @@
   </a>
  </div>
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
