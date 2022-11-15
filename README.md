@@ -1,7 +1,7 @@
 
 
 
-### About Me :
+### Hi, I'm Kristijan:
 
   - Currently learning java to hopefully  become full time developer.  
 
@@ -10,8 +10,18 @@
     - Tinkering around my pc and play video games :video_game:
     - Cooking and trying out new recipes.:stew:
   
+  -You can reach me: kristijan.vidakovic111@gmail.com
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
 
+---
 
 <div  align="center" id="badges">
   <a href="https://www.linkedin.com/in/kristijan-vidakovi%C4%87-702aa2219/">
